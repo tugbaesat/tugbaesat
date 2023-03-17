@@ -11,7 +11,7 @@ I'm a newbie frontend developer with a passion for creating beautiful, user-frie
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me via email at [tugbaesat007e@gmail.com](mailto:tugbaesat007e@gmail.com).
+Feel free to reach out to me via email at [tugbaesat007@gmail.com](mailto:tugbaesat007@gmail.com).
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/tugbaesat/).
 
