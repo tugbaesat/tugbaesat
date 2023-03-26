@@ -1,6 +1,6 @@
 # Hi there, I'm Tugba! 👋
 
-I'm a newbie frontend developer with a passion for creating beautiful, user-friendly websites and web applications. I have basic knowledge in HTML, CSS, JavaScript, and Git. I'm eager to learn and grow my skills in this exciting field.
+I'm a frontend developer with a passion for creating beautiful, user-friendly websites and web applications. I have basic knowledge in HTML, CSS, JavaScript, and Git. I'm eager to learn and grow my skills in this exciting field.
 
 ## 🚀 My Skills
 
