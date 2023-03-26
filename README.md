@@ -15,10 +15,5 @@ Feel free to reach out to me via email at [tugbaesat007@gmail.com](mailto:tugbae
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/tugbaesat/).
 
-## 🔥 Fun Fact
-
-- I enjoy watching TV shows and discussing them with friends.
-- I am interested in learning new languages and cultures.
-
 Thanks for stopping by! 🙏
 
