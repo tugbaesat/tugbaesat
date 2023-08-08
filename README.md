@@ -1,19 +1,26 @@
 # Hi there, I'm Tugba! 👋
 
-I'm a frontend developer with a passion for creating beautiful, user-friendly websites and web applications. I have basic knowledge in HTML, CSS, JavaScript, and Git. I'm eager to learn and grow my skills in this exciting field.
+As a civil engineer turned software engineer, I'm passionate about creating user-friendly websites that blend elegant design with powerful functionality.
 
-## 🚀 My Skills
+## About Me
+After successfully completing a frontend web development bootcamp, I've gained expertise in HTML, CSS, JavaScript, React and Next.js. I'm thrilled to combine my engineering background with my newly acquired coding skills to build innovative web applications.
 
-- HTML
-- CSS
-- JavaScript
-- Git
+As a lifelong learner, I continue to explore advanced topics in frontend development and stay updated with the latest industry trends to deliver cutting-edge solutions.
+
+## 🎯 Skills & Interests
+- **HTML & CSS:** Proficient in creating structured, semantic HTML and styling with CSS to craft visually appealing and responsive web interfaces.
+- **Tailwind CSS:** Experienced in using the Tailwind CSS framework to streamline UI development and create efficient, consistent designs.
+- **React & Next.js:** Skilled in building interactive and dynamic user interfaces using React and Next.js, leveraging components and state management for seamless web experiences.
+- **JavaScript:** Strong understanding of JavaScript fundamentals, allowing me to implement various functionalities and enhance user interactions on web applications.
+- **Git:** Proficient in version control using Git, facilitating collaborative development and enabling efficient code management within teams.
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me via email at [tugbaesat007@gmail.com](mailto:tugbaesat007@gmail.com).
+Feel free to contact me directly at [tugbaesat007@gmail.com](mailto:tugbaesat007@gmail.com). I'm always open to new opportunities and collaborations.
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/tugbaesat/).
+## 🤝 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/tugbaesat/)
 
 Thanks for stopping by! 🙏
 
