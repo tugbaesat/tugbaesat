@@ -16,7 +16,7 @@ As a lifelong learner, I continue to explore advanced topics in frontend develop
 
 ## 📫 How to Reach Me
 
-Feel free to contact me directly at [tugbaesat007@gmail.com](mailto:tugbaesat007@gmail.com). I'm always open to new opportunities and collaborations.
+Feel free to contact me directly at [tugbaesatsahin@gmail.com](mailto:tugbaesatsahin@gmail.com). I'm always open to new opportunities and collaborations.
 
 ## 🤝 Let's Connect
 
