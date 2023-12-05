@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Tugba! 👋 </h1> 
 <p align="center">
-A passionate frontend web developer from Los Angeles, CA!
+A passionate web developer from Los Angeles, CA!
 </p>
 
 <h2 align="center">  About Me 💫 </h2> 
