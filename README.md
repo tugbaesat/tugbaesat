@@ -5,7 +5,7 @@ A passionate web developer from Los Angeles, CA!
 
 <h2 align="center">  About Me 💫 </h2> 
 <p align="center">
-🏗️ As a civil engineer turned software engineer, I'm combining my engineering background with my coding skills to build innovative web applications.<br> 🌐 I'm passionate about creating user-friendly websites that blend elegant design with powerful functionality.<br> 🌱 As a lifelong learner, I continue to explore advanced topics in frontend development and stay updated with the latest industry trends. <br> 🫶🏼 Don't forget to visit my <a href="https://tugbaesat.vercel.app">Portfolio Website</a>!
+🏗️ As a civil engineer turned software engineer, I'm combining my engineering background with my coding skills to build innovative web applications.<br> 🌐 I'm passionate about creating user-friendly websites that blend elegant design with powerful functionality.<br> 🌱 As a lifelong learner, I continue to explore advanced topics in frontend development and stay updated with the latest industry trends. <br> 🫶🏼 Don't forget to visit my <a href="https://tugbaesatsahin.vercel.app">Portfolio Website</a>!
   
 </p>
 
