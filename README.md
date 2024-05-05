@@ -12,7 +12,7 @@ A passionate web developer from Los Angeles, CA!
 <h2 align="center">  Skills 🎯 </h2> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,react,tailwind,jquery,bootstrap,firebase,figma,git,linux,materialui,postman,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,react,gatsby, ts, tailwind,jquery,bootstrap,firebase,figma,git,linux,materialui, bitbucket,  postman,vscode&perline=5" />
   </a>
 </p>
 
