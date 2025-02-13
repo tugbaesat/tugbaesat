@@ -20,9 +20,9 @@
 - **Other Expertise**: SEO, API Development, Accessibility Standards (WCAG), Project Management (Agile)
 
 <h2>📫 Let's connect!<h2/>
-<p align="center">I'm always open to collaborations, discussions, and new opportunities! Feel free to contact me directly at my  📧 <a href="mailto:tessevansofficial@gmail.com">email</a>.</p>
+<p align="center">I'm always open to collaborations, discussions, and new opportunities! Feel free to contact me directly at my  📧 <a href="mailto:tugbaesatsahin@gmail.com">email</a>.</p>
 
-<p align="center">🌐 Don't forget to visit my <a href="https://tessevans.vercel.app/">Portfolio Website!</a> </p>
+<p align="center">🌐 Don't forget to visit my <a href="https://tugbaesatsahin.vercel.app/">Portfolio Website!</a> </p>
 
 <p align="center">Looking forward to working together! 🚀</p>
 
