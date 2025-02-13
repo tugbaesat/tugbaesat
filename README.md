@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there!  I'm Tess 👋 </h1> 
+<h1 align="center"> Hi there!  I'm Tugba 👋 </h1> 
 
 <p align="center">I'm a passionate <strong>Web Developer</strong> based in Los Angeles, CA, with a love for building user-friendly and scalable web applications. I specialize in creating high-performance web solutions that not only look great but also drive engagement and deliver results.</p>
 
