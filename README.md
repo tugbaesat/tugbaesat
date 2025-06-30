@@ -1,5 +1,4 @@
 <h1 align="center"> Hi there!  I'm Tugba 👋 </h1> 
-
  <h2>   🌟 What I do: </h2>
  <ul>
    <li>
